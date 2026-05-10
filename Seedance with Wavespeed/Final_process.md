@@ -209,5 +209,5 @@ SHOT 8 — 0:13 to 0:15, ECU pulling to WS, 85mm to 35mm, smooth slow pull-back.
 Opens tight on the SunSip can @image_1 catching last sunlight, condensation catching the glow. Camera pulls back slowly to reveal the full rooftop, ocean, and swaying palms. Frame settles. Tagline appears cinematically over the clean final image: SunSip Mango Lime — Sip the Sunshine. Feel Alive.
 
 ##### Final result video is below.
+[![Watch the video](image1.png)](video1.mp4)
 
-[🎥 Click here to watch the final video](video1.mp4)
