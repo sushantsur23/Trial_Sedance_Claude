@@ -210,4 +210,4 @@ Opens tight on the SunSip can @image_1 catching last sunlight, condensation catc
 
 ##### Final result video is below.
 
-[![Final Video](Video1.mp4)](Video1.mp4)
+[🎥 Click here to watch the final video](video1.mp4)
