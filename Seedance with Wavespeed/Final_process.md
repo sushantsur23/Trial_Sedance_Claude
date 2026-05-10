@@ -212,3 +212,48 @@ Opens tight on the SunSip can @image_1 catching last sunlight, condensation catc
 
 
 [![Final Video](Video1.mp4)](Video1.mp4)
+
+
+##### Trial 2
+Input prompt to Claude code to generate the prompt for seednce model.
+
+I want to create a 15 secs product demo video with Seedance 2.0 with multi shots of the product as @image4.png showing many individuals enjoying the drink in all season, party drink and sharing it on beach party with awesome feeling explaining how each drop refreshes the mood, add attractive music in background of the video best fitting for all the shots. finally I have a ending picture which can be used as @Refresh.png
+
+
+Ouptut prompt
+
+IMAGE MAPPING:
+@image_1 = image4.png — AQUAVIBE FrostFizz Lime Chill 330ml can (product reference, all angles)
+@image_2 = Refresh.png — ending hero ad frame reference (man drinking, splash, "Instant Cool. All Day Refreshed.")
+No personal talent reference images uploaded — all characters described in prose.
+
+FORMAT: 15s / 8 SHOTS / FrostFizz Lime Chill — all-season multi-character product demo commercial
+SUBJECT: Ensemble cast. Multiple individuals across shots — no single hero. All diverse, energetic, naturally joyful. Described in prose per shot.
+HERO PROPS: AQUAVIBE FrostFizz Lime Chill 330ml sparkling refresher can @image_1. Frost-white to mint-green gradient aluminum body, dark green FrostFizz branding, hyper-realistic condensation, visible sparkling texture. Always the same can. One visible per frame.
+ENVIRONMENT: (A) Snowy winter rooftop bar, string lights, cozy scarves. (B) Vivid spring park, blooming trees, soft afternoon light. (C) Blazing summer beach party, ocean waves, sand, neon accents. (D) Warm autumn evening bonfire gathering, golden leaves, amber glow.
+MOOD: Opens on quiet personal refreshment. Builds through seasons of shared joy. Escalates into peak collective energy at the beach party. Closes on iconic product hero — cool, alive, refreshed.
+MUSIC: Opens with a crisp, cool ambient tone — light electronic with mint-fresh texture. Gradually builds across shots with upbeat tropical-electronic pulse. Hits a euphoric peak at Shot 6 beach party. Settles into a warm resonant outro beat beneath the final product hero frame.
+COLOR LOGIC: Dominant ice-white, mint-green, and electric lime. Accent pop: deep forest green from the can label against vivid sky blues and golden seasonal warm tones.
+STYLE: Premium FMCG multi-character beverage commercial. ARRI Alexa Mini LF, anamorphic lenses, ultra-realistic condensation and water texture, slow-motion liquid splashes, shallow DOF on faces and can. Sprite / 7UP / Mountain Dew commercial energy. Hyper-detailed aluminum reflections. Each season graded with its own color temperature — cool blue for winter, soft green for spring, saturated warm for summer, amber for autumn.
+LOGIC RULE: The FrostFizz can @image_1 is always identical — same label, same colors, same branding in every shot. Only one can visible per frame. No duplicate cans. Characters never repeat across shots. Wardrobe matches each season's environment. No film crew, rigs, or equipment visible.
+NEGATIVE PROMPT: No generic stock footage look. No branded competitors visible. No CGI fake liquid. No duplicate cans in same frame.
+
+SHOT 1 — 0:00 to 0:02, ECU, 100mm macro, static locked.
+Extreme close-up of FrostFizz can @image_1. Real frost condensation crawls down the mint-green aluminum. Tiny sparkling bubbles cling to the surface. Background is pure blurred cool white — winter environment (A) just visible as bokeh. The can breathes cold. Pure product texture open.
+SHOT 2 — 0:02 to 0:04, MS, 50mm, static with gentle push-in.
+Winter rooftop environment (A). A young woman in a chunky cream turtleneck and scarf wraps both hands around the FrostFizz can @image_1, eyes closing as she takes one slow sip. Her breath mists slightly in the cold air. String lights glow soft and warm behind her. A quiet smile forms — the first hit of refreshment cutting through winter.
+SHOT 3 — 0:04 to 0:06, WS, 28mm, slow handheld pan left to right.
+Spring park environment (B). Two friends — one man, one woman, casual spring outfits — walk a bloom-lined path together. One holds the FrostFizz can @image_1, offers it to the other. The other takes it, sips, reacts with pure open-mouthed joy. Petals drift past in soft afternoon light. Energy is light, carefree, alive.
+SHOT 4 — 0:06 to 0:07, ECU, 100mm macro, locked static.
+Slow-motion product burst: a single lime wedge and a mint sprig hit the surface of the FrostFizz can @image_1 as sparkling water droplets scatter outward in every direction. Pure product sensory moment — green, icy, electric. Lit from above with crisp white light.
+SHOT 5 — 0:07 to 0:09, MCU, 85mm, slow drift in.
+Autumn bonfire environment (D). A young man in a flannel jacket leans back at a golden-lit gathering, FrostFizz can @image_1 raised in a casual solo toast. Amber fire glow reflects off the aluminum. He exhales after the sip — pure calm refreshment. Friends blur warm and golden in the background.
+SHOT 6 — 0:09 to 0:11, WS, 24mm, handheld tracking alongside.
+Summer beach party environment (C). A group of five — mixed ages, vibrant summer fits — move together along the shoreline at dusk. Multiple FrostFizz cans @image_1 visible one at a time as characters pass one to another. Ocean waves roll in. Neon accent lights pulse at the edge of frame. Peak collective joy — the commercial's energy climax.
+SHOT 7 — 0:11 to 0:13, MS to CU, 85mm, slow push-in.
+Beach environment (C). A woman tips a FrostFizz can @image_1 back — slow motion — and a thin arc of sparkling lime-mint liquid catches sunlight mid-air. Her expression shifts from warm to electric refreshment. Eyes open wide, full grin. Hair catches the ocean breeze. The moment every sip promises.
+SHOT 8 — 0:13 to 0:15, ECU pulling to WS, 85mm to 35mm, slow pull-back — @image_2 aesthetic reference.
+Opens tight on the FrostFizz can @image_1 catching bright clean backlighting. Condensation glows. Mint leaves and a lime half rest at the base. Camera pulls back slowly to reveal a clean styled surface — ice cubes, sparkling splash drops suspended in mid-air around the can. Final frame holds clean and composed, matching the energy of @image_2. Tagline appears cinematically over the hero image: FrostFizz Lime Chill — Instant Cool. All Day Refreshed.
+
+#### Result Video 
+[![Trial Video](Video2.mp4)](Video2.mp4)
